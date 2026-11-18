@@ -9,15 +9,15 @@
 
 ---
 
-### 🤖 About me
+###  About me
 
 I design and build **AI agents and automation systems that run real business operations** — booking, sales, customer support, CRM and ERP — on the channels customers already use: **WhatsApp, Telegram, Instagram and Messenger**.
 
-- ⚙️ **n8n** multi-agent workflows with LangChain agents, tool routing and human takeover
-- 🧠 **RAG & OCR pipelines** — Supabase / MongoDB vector search over PDFs, images and voice notes
-- 🗄️ **Robust backends** — PostgreSQL / Supabase functions, triggers and webhooks
-- 🖥️ Self-hosted & local LLMs with **Ollama** and Docker
-- 🌍 Based in Cairo, Egypt — **open to remote roles and freelance projects**
+-  **n8n** multi-agent workflows with LangChain agents, tool routing and human takeover
+-  **RAG & OCR pipelines** — Supabase / MongoDB vector search over PDFs, images and voice notes
+-  **Robust backends** — PostgreSQL / Supabase functions, triggers and webhooks
+-  Self-hosted & local LLMs with **Ollama** and Docker
+-  Based in Cairo, Egypt — **open to remote roles and freelance projects**
 
 ---
 
@@ -25,20 +25,20 @@ I design and build **AI agents and automation systems that run real business ope
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🏥 [MedFlow – Medical Center Management](https://github.com/farislashen7-hub/MedFlow-Medical-Center-Management) | Arabic-first medical center platform: web app, Android app and n8n automation | React · TypeScript · Supabase · n8n |
-| 🍔 [AI Restaurant Ordering & Menu Automation](https://github.com/farislashen7-hub/AI-Powered-Multi-Modal-Restaurant-Order-Menu-Automation) | WhatsApp AI agent for step-by-step ordering with voice/image support and human takeover | Next.js · Supabase · n8n |
-| 💬 [WhatsApp Multimodal RAG Chatbot](https://github.com/farislashen7-hub/WhatsApp-Multimodal-RAG-Chatbot) | Handles text, voice notes (Whisper), images (OCR) and documents with vector search | n8n · OpenAI · MongoDB Atlas |
-| 🦷 [Autonomous Dental Clinic System](https://github.com/farislashen7-hub/Autonomous-Dental-Clinic-Management-System) | Multi-agent clinic assistant: RAG symptom support, scheduling, feedback handling | n8n · Supabase Vector Store |
-| 📦 [Event-Driven AI ERP Agent](https://github.com/farislashen7-hub/Event-Driven-AI-ERP-Agent-System) | Manage inventory, sales, expenses and purchase orders by chatting on Telegram | n8n · PostgreSQL · OpenRouter |
-| 🏠 [Omnichannel Lead-Gen CRM](https://github.com/farislashen7-hub/Lead-Generation-CRM-Automation) | Real-estate CRM across WhatsApp, Telegram, Messenger & Instagram with AI qualification | n8n · LangChain · PostgreSQL |
+|  [MedFlow – Medical Center Management](https://github.com/farislashen7-hub/MedFlow-Medical-Center-Management) | Arabic-first medical center platform: web app, Android app and n8n automation | React · TypeScript · Supabase · n8n |
+|  [AI Restaurant Ordering & Menu Automation](https://github.com/farislashen7-hub/AI-Powered-Multi-Modal-Restaurant-Order-Menu-Automation) | WhatsApp AI agent for step-by-step ordering with voice/image support and human takeover | Next.js · Supabase · n8n |
+|  [WhatsApp Multimodal RAG Chatbot](https://github.com/farislashen7-hub/WhatsApp-Multimodal-RAG-Chatbot) | Handles text, voice notes (Whisper), images (OCR) and documents with vector search | n8n · OpenAI · MongoDB Atlas |
+|  [Autonomous Dental Clinic System](https://github.com/farislashen7-hub/Autonomous-Dental-Clinic-Management-System) | Multi-agent clinic assistant: RAG symptom support, scheduling, feedback handling | n8n · Supabase Vector Store |
+| [Event-Driven AI ERP Agent](https://github.com/farislashen7-hub/Event-Driven-AI-ERP-Agent-System) | Manage inventory, sales, expenses and purchase orders by chatting on Telegram | n8n · PostgreSQL · OpenRouter |
+|  [Omnichannel Lead-Gen CRM](https://github.com/farislashen7-hub/Lead-Generation-CRM-Automation) | Real-estate CRM across WhatsApp, Telegram, Messenger & Instagram with AI qualification | n8n · LangChain · PostgreSQL |
 
 <details>
 <summary><b>More projects</b></summary>
 
-- 📅 [Autonomous AI Appointment Booking Agent](https://github.com/farislashen7-hub/Autonomous-AI-Appointment-Booking-Agent) — Telegram & chat-widget booking with Google Calendar + Sheets sync
-- 🧾 [RAG + OCR Customer Support Agent](https://github.com/farislashen7-hub/RAG-OCR-Customer-Support-AI-Agent) — Google Drive ingestion, Gemini OCR, Supabase vectors
-- 👔 [AI HR Recruitment Assistant](https://github.com/farislashen7-hub/AI-HR-Recruitment-Assistant-Workflow) — CV parsing with LlamaParse and an interactive Telegram HR bot
-- 🎬 [Autonomous YouTube Shorts Pipeline](https://github.com/farislashen7-hub/Autonomous-YouTube-Veo-Shorts-Automation) — trend research, Google Veo video generation and auto-upload
+-  [Autonomous AI Appointment Booking Agent](https://github.com/farislashen7-hub/Autonomous-AI-Appointment-Booking-Agent) — Telegram & chat-widget booking with Google Calendar + Sheets sync
+-  [RAG + OCR Customer Support Agent](https://github.com/farislashen7-hub/RAG-OCR-Customer-Support-AI-Agent) — Google Drive ingestion, Gemini OCR, Supabase vectors
+-  [AI HR Recruitment Assistant](https://github.com/farislashen7-hub/AI-HR-Recruitment-Assistant-Workflow) — CV parsing with LlamaParse and an interactive Telegram HR bot
+-  [Autonomous YouTube Shorts Pipeline](https://github.com/farislashen7-hub/Autonomous-YouTube-Veo-Shorts-Automation) — trend research, Google Veo video generation and auto-upload
 
 </details>
 
@@ -80,7 +80,7 @@ I design and build **AI agents and automation systems that run real business ope
 
 ---
 
-### 📜 Certifications
+###  Certifications
 
 - **Oracle Cloud Infrastructure Generative AI Professional** — Oracle
 - **OCI AI Foundations Associate** — Oracle
